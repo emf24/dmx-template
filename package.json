@@ -1,0 +1,16 @@
+{
+  "name": "dmx-template",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "repository": "https://github.com/emf24/dmx-template.git",
+  "author": "hiett <sodex.gaming@gmail.com>",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
